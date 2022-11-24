@@ -1,0 +1,1 @@
+ganache-cli --accounts 25 --deterministic --mnemonic="toward bottom strong claw exotic eyebrow equal erupt layer pair hawk coin" --port 8545 --hostname 127.0.0.1 --networkId 5777 --gasPrice 80000000000 --db="./db"
