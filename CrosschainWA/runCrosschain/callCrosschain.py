@@ -57,7 +57,7 @@ def mainReturn():
     return (w3.eth.blockNumber, hexTransX, loadTransX)
 
 def squat():
-    subprocess.call([r"C:\Users\ACER\Desktop\CrosschainWA\CrosschainWA\runCrosschain\blockchain-interoperability-main\truffle-test-ed.bat"])
+    subprocess.call([r"C:\Users\ACER\Desktop\NT215_Internship_Project\CrosschainWA\runCrosschain\blockchain-interoperability-main\truffle-test-ed.bat"])
     print("run done")
 
 mainReturn()
